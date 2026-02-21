@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/8.16/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="0176;1;4" xml:id="p.nyu.1.4" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     n="0176;1;4"
+     xml:id="p.nyu.1.4"
+     xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,7 +83,7 @@
 
     <lb n="14"/>ὑπὲρ <unclear>μ</unclear><supplied reason="lost">ι</supplied><unclear>σθοῦ</unclear> ἑνὸς μηνὸς 
 
-    <lb n="15"/>πλ<unclear>ήρ</unclear>ης. Πευκῆις <expan>βοηθ<ex>ὸς</ex></expan> <expan><ex>τάλαντα</ex></expan> ἑξ<supplied reason="lost">ακισχίλια <expan><ex>γίνεται</ex></expan> <num value="6000">Ϛ</num></supplied> 
+    <lb n="15"/>πλ<unclear>ήρ</unclear>ης. <app type="editorial"><lem resp="PN C. Balamoshev (from image)">Πεκῦσις</lem><rdg>Πευκῆις</rdg></app> <expan>βοηθ<ex>ὸς</ex></expan> <expan><ex>τάλαντα</ex></expan> <app type="editorial"><lem resp="BL 6.124">ἑξ<supplied reason="lost">ακόσια <num value="600">χ</num></supplied></lem><rdg>ἑξ<supplied reason="lost">ακισχίλια <expan><ex>γίνεται</ex></expan> <num value="6000">Ϛ</num></supplied></rdg></app> 
 
     <lb n="16"/><choice><reg>σεσημείωμαι</reg><orig>σεσημίωμαι</orig></choice> </ab></div>
       </body>
