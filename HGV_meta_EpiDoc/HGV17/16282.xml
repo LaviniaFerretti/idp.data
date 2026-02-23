@@ -116,8 +116,11 @@
          </div>
          <div type="figure">
             <p>
-               <figure>
+               <figure n="1">
                   <graphic url="https://dn721703.ca.archive.org/0/items/blpapimarchive/papyrus_2000_f001r.jpg"/>
+               </figure>
+               <figure n="2">
+                  <graphic url="https://searcharchives.bl.uk/catalog/040-003677774"/>
                </figure>
             </p>
          </div>
