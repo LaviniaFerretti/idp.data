@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/8.16/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-     n="0154;1;43,p48"
-     xml:id="p.lond.1.43-p48"
+     n="0154;1;44,p33"
+     xml:id="p.lond.1.44-p33"
      xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>p.lond.1.43-p48</title>
+            <title>p.lond.1.44</title>
          </titleStmt>
          <publicationStmt>
             <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
-            <idno type="filename">p.lond.1.43-p48</idno>
-            <idno type="ddb-perseus-style">0154;1;43,p48</idno>
-            <idno type="ddb-hybrid">p.lond;1;43,p48</idno>
-            <idno type="HGV">3540</idno>
-            <idno type="TM">3540</idno>
+            <idno type="filename">p.lond.1.44</idno>
+            <idno type="ddb-perseus-style">0154;1;44,p33</idno>
+            <idno type="ddb-hybrid">p.lond;1;44</idno>
+            <idno type="HGV">3399</idno>
+            <idno type="TM">3399</idno>
             <availability>
                <p>© Duke Databank of Documentary Papyri. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
             </availability>
@@ -42,7 +42,7 @@
    <text>
       <body>
          <head xml:lang="en">
-            <ref n="upz;1;148" type="reprint-in">UPZ 1,148</ref>
+            <ref n="upz;1;8" type="reprint-in">UPZ 1 8</ref>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab/></div>
       </body>
