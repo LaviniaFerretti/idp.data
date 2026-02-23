@@ -47,8 +47,8 @@
       </fileDesc>
       <encodingDesc>
          <p>
-          This file encoded to comply with EpiDoc Guidelines and Schema version 8
-          <ref>http://www.stoa.org/epidoc/gl/5/</ref>
+        This file encoded to comply with EpiDoc Guidelines and Schema version 8
+        <ref>http://www.stoa.org/epidoc/gl/5/</ref>
          </p>
       </encodingDesc>
       <profileDesc>
@@ -125,15 +125,15 @@ Da es sich bei dem dritten Wort in Z. 1 dem Kommentar zufolge entweder um einen 
                <bibl type="BL-online">
                   <ptr target="https://beehive.zaw.uni-heidelberg.de/hgv/30104"/>
                </bibl>
-               <bibl type="BL">
+               <bibl type="BL" n="1">
                   <biblScope type="volume">VII</biblScope>
                   <biblScope type="pages">200</biblScope>
                </bibl>
-               <bibl type="BL">
+               <bibl type="BL" n="2">
                   <biblScope type="volume">IX</biblScope>
                   <biblScope type="pages">278</biblScope>
                </bibl>
-               <bibl type="BL">
+               <bibl type="BL" n="3">
                   <biblScope type="volume">XII</biblScope>
                   <biblScope type="pages">211</biblScope>
                </bibl>
