@@ -80,6 +80,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-02-23T10:18:40-05:00"
+                 who="http://papyri.info/editor/users/saverio">Finalized - ok</change>
+         <change when="2026-02-23T10:14:40-05:00"
+                 who="http://papyri.info/editor/users/saverio">Commit - changed as per corrections</change>
+         <change when="2026-02-23T09:53:04-05:00"
+                 who="http://papyri.info/editor/users/saverio">Vote - Accept-Straight-to-Finalization - col ii, l. 3: [vac.? ὕπαγε -&gt; [.?] [ὕπαγε ; l. 7: ἐμ̣έ, τὸνβ.2σον -&gt; &lt;:ἐμ̣έ, τὸν|ed|β.2σον=Petropoulos:&gt;; l. 8: &lt;:.1[.2].3||ed||&lt;:.1[.2]τ̣ρι̣|alt|γ̣ρ̣ι̣:&gt;=Petropoulos|&lt;:.1[.2]η̣ι̣|alt|π̣ι̣:&gt;=Suppl.Mag.:&gt; -&gt; &lt;:&lt;:.1[.2].3||alt||.1[.2]τ̣ρ̣ι̣|.1[.2]γ̣ρ̣ι̣:&gt;||ed||.1[.2].2=Petropoulos|&lt;:.1[.2]η̣ι̣|alt|.1[.2]π̣ι̣:&gt;=Supplementum Magicum:&gt;; l. 10: add "vac" after ἤδη (i.e. vac.? [.?]); l. 11: add [.?] after [(δ(ε)ῖ(να))]; l. 15: &lt;:ε̣̄¯.1¯ρ̄ ̄ῑᾱλ̄φ̄η̄ς̄ ̄θ̄ῑ|ed|.1[.?]ρι ἀλφῆϲ=Petropoulos:&gt; --&gt; &lt;:¯ε̣.1ρ ιαλφης θι¯|ed|.1[ca.2]ρι ἀλφῆς=Petropoulos:&gt;; l. 16: del ¯.1¯ at the end; l. 17: add vac.ca.1 before and after ἐπὶ; l. 18: substitute with &lt;:[τελεί]αν ἐπα̣[οιδήν] [.?]|ed|[ca.1]λ[ca.1]ε̣π̣ε̣[.?]=Petropoulos, Maltomini:&gt;</change>
+         <change when="2023-06-22T03:18:59-04:00"
+                 who="http://papyri.info/editor/users/dabard01">Submit - Enter text from GEMF 7</change>
          <change when="2014-12-10" who="DCLP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
