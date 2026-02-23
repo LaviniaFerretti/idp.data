@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="m65843" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -70,13 +70,46 @@
                <term type="overview">love spell</term>
             </keywords>
          </textClass>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="grc">Greek</language>
+         </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change when="2014-12-10" who="DCLP">Crosswalked to EpiDoc XML</change>
+          <change when="2014-12-10" who="DCLP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
+         <div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="i" subtype="column" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>η
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ν
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><unclear>μ</unclear>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>πα
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>αν
+</ab></div>
+<div n="ii" subtype="column" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" quantity="4" unit="character"/><unclear>τ</unclear>αρ ουτ<unclear>ω</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>π<gap reason="illegible" quantity="2" unit="character"/><unclear>ω</unclear>θοι και ο<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/>ἐκ παντὸς <app type="editorial"><lem>τόπ<supplied reason="lost">ου</supplied></lem><rdg resp="Petropoulos">τόπ<supplied reason="lost">ου</supplied></rdg></app> <supplied reason="lost"><space extent="unknown" unit="character"/> ὕπαγε εἰς πάντα</supplied>
+<lb n="4"/>τόπον καὶ πᾶσ<unclear>α</unclear><supplied reason="lost">ν οἰκίαν καὶ ἄξον μοι τὴν <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan>.</supplied>
+<lb n="5"/>ἐὰν καθεύδῃ μ<unclear>ὴ</unclear> <supplied reason="lost">καθευδέτω, ἐὰν φάγῃ μὴ</supplied>
+<lb n="6"/><choice><reg>φαγέτω</reg><orig>φαγέτωι</orig></choice>, ἐὰν <app type="editorial"><lem>πίν<supplied reason="lost">ῃ</supplied></lem><rdg resp="Zucker">πίν<supplied reason="lost">ῃ</supplied></rdg></app> <supplied reason="lost">μὴ πινέτω, ἕως ἔλθῃ πρὸς</supplied>
+<lb n="7"/>ἐ<unclear>μ</unclear>έ, τὸνβ<gap reason="illegible" quantity="2" unit="character"/>σον <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan>, καὶ μ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="8"/><app type="editorial"><lem><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="3" unit="character"/></lem><rdg resp="Petropoulos"><app type="alternative"><lem><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><unclear>τ</unclear>ρ<unclear>ι</unclear></lem><rdg><unclear>γρι</unclear></rdg></app></rdg><rdg resp="Suppl.Mag."><app type="alternative"><lem><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><unclear>ηι</unclear></lem><rdg><unclear>πι</unclear></rdg></app></rdg></app> καὶ τὸ μ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="9"/><gap reason="lost" quantity="4" unit="character"/> φίλτατον <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="10"/><supplied reason="lost"><gap reason="illegible" quantity="2" unit="character"/>ἤ</supplied>δη ἤδη<gap reason="illegible" extent="unknown" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="11"/><supplied reason="lost"><expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan><gap reason="illegible" quantity="2" unit="character"/></supplied> ἔτεκεν <app type="editorial"><lem><unclear>ἡ</unclear> <supplied reason="lost"><expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan></supplied></lem><rdg resp="Petropoulos"><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></rdg></app>
+<lb n="12"/>εἰ<unclear>ς</unclear> <unclear>π</unclear>άντα τόπο<unclear>ν</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="13"/><app type="editorial"><lem><gap reason="illegible" quantity="1" unit="character"/><unclear>θ</unclear>ῦ<unclear>ε</unclear> δέ</lem><rdg resp="Petropoulos"><gap reason="lost" extent="unknown" unit="character"/><unclear>δ</unclear>ε</rdg><rdg resp="Maltomini"><gap reason="illegible" quantity="4" unit="character"/>δε</rdg></app>, μὴ ε<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="14"/>πῦρ καὶ βαλὼν <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="15"/><app type="editorial"><lem><hi rend="supraline"><unclear>ε</unclear></hi><hi rend="supraline"><gap reason="illegible" quantity="1" unit="character"/></hi><hi rend="supraline">ρ ιαλφης θι</hi></lem><rdg resp="Petropoulos"><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>ρι ἀλφῆϲ</rdg></app> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="16"/><hi rend="supraline"><gap reason="illegible" quantity="1" unit="character"/></hi> <gap reason="lost" quantity="1" unit="character"/><hi rend="supraline"><gap reason="illegible" quantity="2" unit="character"/></hi> <hi rend="supraline">χιωχ</hi> <gap reason="lost" extent="unknown" unit="character"/>   <hi rend="supraline"><gap reason="illegible" quantity="1" unit="character"/></hi>
+<lb n="17"/>ου<gap reason="lost" quantity="4" unit="character"/> ἐπὶ τ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="18"/><app type="editorial"><lem><supplied reason="lost">τελεί</supplied>αν ἐπ<unclear>α</unclear><supplied reason="lost">οιδήν</supplied></lem><rdg resp="Petropoulos, Maltomini"><gap reason="lost" extent="unknown" unit="character"/>λ<gap reason="lost" extent="unknown" unit="character"/><unclear>επε</unclear><gap reason="lost" extent="unknown" unit="character"/></rdg></app>
+</ab></div></div>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
@@ -119,7 +152,6 @@
                </bibl>
             </listBibl>
          </div>
-         <div type="edition" xml:space="preserve"/>
          <div type="bibliography" subtype="illustrations">
             <listBibl>
                <bibl type="printed">Pap. Flor. 7, pl.XI</bibl>
