@@ -7,13 +7,13 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>p.lond.1.42-p30</title>
+            <title>p.lond.1.42</title>
          </titleStmt>
          <publicationStmt>
             <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
-            <idno type="filename">p.lond.1.42-p30</idno>
+            <idno type="filename">p.lond.1.42</idno>
             <idno type="ddb-perseus-style">0154;1;42,p30</idno>
-            <idno type="ddb-hybrid">p.lond;1;42,p30</idno>
+            <idno type="ddb-hybrid">p.lond;1;42</idno>
             <idno type="HGV">3450</idno>
             <idno type="TM">3450</idno>
             <availability>
@@ -42,7 +42,8 @@
    <text>
       <body>
          <head xml:lang="en">
-            <ref n="upz;1;59" type="reprint-in">UPZ 1,59</ref>
+            <ref n="upz;1;59" type="reprint-in">UPZ 1 59</ref>
+            <ref n="chrest.wilck;;97" type="reprint-in">W.Chr. 97</ref>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab/></div>
       </body>
