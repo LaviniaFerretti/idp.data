@@ -70,6 +70,12 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-02-23T10:44:11-05:00"
+                 who="http://papyri.info/editor/users/LaviniaFerretti">Finalized - Finalized. I kept the version from the later submission by Paul Peters</change>
+         <change when="2020-12-30T09:03:48-05:00"
+                 who="http://papyri.info/editor/users/james.cowey">Vote - HGVAccept - Fine</change>
+         <change when="2020-12-07T10:15:21-05:00"
+                 who="http://papyri.info/editor/users/Mike%20Sampson">Submit - Revision of metadata and text in light of BASP 50 (2013). Dummy header for the DDbDP SB text will have to be added.</change>
          <change when="2023-09-04T02:38:47-04:00"
                  who="http://papyri.info/editor/users/paulpeters">Finalized - Ready.</change>
          <change when="2023-03-13T13:14:05-04:00"
