@@ -44,9 +44,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">1</biblScope>
          <idno type="ddb">p.louvre;1;4</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -55,9 +52,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">2</biblScope>
          <idno type="ddb">bgu;1;2</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -66,9 +60,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">3</biblScope>
          <idno type="ddb">bgu;1;3</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -77,9 +68,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">4</biblScope>
          <idno type="ddb">bgu;1;4</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -88,9 +76,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">5</biblScope>
          <idno type="ddb">bgu;1;5</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -99,9 +84,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">6</biblScope>
          <idno type="ddb">bgu;1;6</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -110,9 +92,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">7</biblScope>
          <idno type="ddb">bgu;1;7</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -121,9 +100,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">8</biblScope>
          <idno type="ddb">bgu;1;8</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -132,9 +108,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">9</biblScope>
          <idno type="ddb">bgu;1;9</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -143,9 +116,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">10</biblScope>
          <idno type="ddb">bgu;1;10</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -154,9 +124,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">11</biblScope>
          <idno type="ddb">chr.wilck;;239</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -165,9 +132,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">12</biblScope>
          <idno type="ddb">chr.wilck;;389</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -176,9 +140,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">13</biblScope>
          <idno type="ddb">chr.mitt;;265</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -187,9 +148,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">14</biblScope>
          <idno type="ddb">bgu;1;14</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -198,9 +156,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">15</biblScope>
          <idno type="ddb">bgu;1;15</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -209,9 +164,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">16</biblScope>
          <idno type="ddb">bgu;1;16</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -220,9 +172,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">17</biblScope>
          <idno type="ddb">c.pap.gr;2.1;38</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -231,9 +180,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">18</biblScope>
          <idno type="ddb">chr.wilck;;398</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -242,9 +188,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">19</biblScope>
          <idno type="ddb">chr.mitt;;85</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -253,9 +196,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">20</biblScope>
          <idno type="ddb">bgu;1;20</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -264,9 +204,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">21</biblScope>
          <idno type="ddb">bgu;1;21</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -275,9 +212,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">22</biblScope>
          <idno type="ddb">bgu;1;22</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -286,9 +220,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">23</biblScope>
          <idno type="ddb">bgu;1;23</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -297,9 +228,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">24</biblScope>
          <idno type="ddb">bgu;1;24</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -308,9 +236,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">25</biblScope>
          <idno type="ddb">bgu;1;25</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -319,9 +244,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">26</biblScope>
          <idno type="ddb">bgu;2;447</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -330,9 +252,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">27</biblScope>
          <idno type="ddb">chr.wilck;;445</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -341,9 +260,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">28</biblScope>
          <idno type="ddb">bgu;1;28</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -352,9 +268,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">29</biblScope>
          <idno type="ddb">stud.pal;3(2).1;117</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -363,9 +276,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">30</biblScope>
          <idno type="ddb">bgu;1;30</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -374,9 +284,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">31</biblScope>
          <idno type="ddb">bgu;1;31</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -385,9 +292,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">32</biblScope>
          <idno type="ddb">bgu;1;32</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -396,9 +300,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">33</biblScope>
          <idno type="ddb">bgu;1;33</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -407,9 +308,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">34</biblScope>
          <idno type="ddb">bgu;1;34</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -418,9 +316,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">35</biblScope>
          <idno type="ddb">bgu;1;35</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -429,9 +324,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">36</biblScope>
          <idno type="ddb">chr.mitt;;125dupl</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -440,9 +332,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">37</biblScope>
          <idno type="ddb">bgu;1;37</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -451,9 +340,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">38</biblScope>
          <idno type="ddb">bgu;1;38</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -462,9 +348,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">39</biblScope>
          <idno type="ddb">bgu;1;39</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -473,9 +356,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">40</biblScope>
          <idno type="ddb">bgu;1;40</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -484,9 +364,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">41</biblScope>
          <idno type="ddb">bgu;1;41</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -495,9 +372,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">42</biblScope>
          <idno type="ddb">bgu;1;42</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -506,9 +380,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">43</biblScope>
          <idno type="ddb">bgu;1;43</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -517,9 +388,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">44</biblScope>
          <idno type="ddb">bgu;1;44</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -528,9 +396,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">45</biblScope>
          <idno type="ddb">bgu;1;45</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -539,9 +404,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">46</biblScope>
          <idno type="ddb">chr.mitt;;112</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -550,9 +412,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">47</biblScope>
          <idno type="ddb">bgu;1;47</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -561,9 +420,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">48</biblScope>
          <idno type="ddb">bgu;1;48</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -572,9 +428,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">49</biblScope>
          <idno type="ddb">bgu;1;49</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -583,9 +436,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">50</biblScope>
          <idno type="ddb">bgu;1;50</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -594,9 +444,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">51</biblScope>
          <idno type="ddb">bgu;1;51</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -605,9 +452,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">52</biblScope>
          <idno type="ddb">bgu;1;52</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -616,9 +460,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">53</biblScope>
          <idno type="ddb">bgu;1;53</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -627,9 +468,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">54</biblScope>
          <idno type="ddb">bgu;1;54</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -638,9 +476,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">55</biblScope>
          <idno type="ddb">bgu;1;55</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -649,9 +484,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">56</biblScope>
          <idno type="ddb">bgu;1;56</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -660,9 +492,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">57</biblScope>
          <idno type="ddb">bgu;1;57</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -671,9 +500,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">58</biblScope>
          <idno type="ddb">sb;20;14326</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -682,9 +508,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">59</biblScope>
          <idno type="ddb">bgu;1;59</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -693,9 +516,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">60</biblScope>
          <idno type="ddb">bgu;1;60</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -704,9 +524,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">61</biblScope>
          <idno type="ddb">bgu;1;61</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -715,9 +532,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">62</biblScope>
          <idno type="ddb">bgu;1;62</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -726,9 +540,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">63</biblScope>
          <idno type="ddb">bgu;1;63</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -737,9 +548,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">64</biblScope>
          <idno type="ddb">bgu;1;64</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -748,9 +556,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">65</biblScope>
          <idno type="ddb">bgu;1;65</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -759,9 +564,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">66</biblScope>
          <idno type="ddb">bgu;1;66</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -770,9 +572,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">67</biblScope>
          <idno type="ddb">bgu;1;67</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -781,9 +580,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">68</biblScope>
          <idno type="ddb">bgu;1;68</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -792,9 +588,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">69</biblScope>
          <idno type="ddb">bgu;1;69</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -803,9 +596,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">70</biblScope>
          <idno type="ddb">bgu;1;70</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -814,9 +604,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">71</biblScope>
          <idno type="ddb">bgu;1;71</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -825,9 +612,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">72</biblScope>
          <idno type="ddb">bgu;1;72</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -836,9 +620,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">73</biblScope>
          <idno type="ddb">bgu;1;73</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -847,9 +628,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">74</biblScope>
          <idno type="ddb">bgu;1;74</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -858,9 +636,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">75</biblScope>
          <idno type="ddb">bgu;1;75</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -869,9 +644,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">76</biblScope>
          <idno type="ddb">bgu;1;76</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -880,9 +652,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">77</biblScope>
          <idno type="ddb">bgu;1;77</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -891,9 +660,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">78</biblScope>
          <idno type="ddb">bgu;2;445</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -902,9 +668,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">79</biblScope>
          <idno type="ddb">c.pap.gr;2.1;55</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -913,9 +676,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">80</biblScope>
          <idno type="ddb">bgu;2;446</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -924,9 +684,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">81</biblScope>
          <idno type="ddb">bgu;1;81</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -935,9 +692,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">82</biblScope>
          <idno type="ddb">bgu;1;82</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -946,9 +700,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">83</biblScope>
          <idno type="ddb">bgu;1;83</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -957,9 +708,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">84</biblScope>
          <idno type="ddb">bgu;1;84</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -968,9 +716,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">85</biblScope>
          <idno type="ddb">chr.wilck;;345</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -979,9 +724,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">86</biblScope>
          <idno type="ddb">chr.mitt;;306</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -990,9 +732,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">87</biblScope>
          <idno type="ddb">bgu;1;87</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1001,9 +740,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">88</biblScope>
          <idno type="ddb">bgu;1;88</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1012,9 +748,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">89</biblScope>
          <idno type="ddb">bgu;1;89</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1023,9 +756,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">90</biblScope>
          <idno type="ddb">bgu;1;90dupl</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1034,9 +764,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">91</biblScope>
          <idno type="ddb">bgu;1;91</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1045,9 +772,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">92</biblScope>
          <idno type="ddb">chr.wilck;;427</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1056,9 +780,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">93</biblScope>
          <idno type="ddb">bgu;1;93</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1067,9 +788,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">94</biblScope>
          <idno type="ddb">bgu;1;94</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1078,9 +796,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">95</biblScope>
          <idno type="ddb">bgu;1;95</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1089,9 +804,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">96</biblScope>
          <idno type="ddb">bgu;1;96</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1100,9 +812,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">97</biblScope>
          <idno type="ddb">chr.wilck;;204</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1111,9 +820,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">98</biblScope>
          <idno type="ddb">bgu;1;98</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1122,9 +828,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">99</biblScope>
          <idno type="ddb">bgu;1;99</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1133,9 +836,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">100</biblScope>
          <idno type="ddb">bgu;1;100</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1144,9 +844,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">101</biblScope>
          <idno type="ddb">bgu;1;101</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1155,9 +852,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">102</biblScope>
          <idno type="ddb">bgu;1;102</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1166,9 +860,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">103</biblScope>
          <idno type="ddb">chr.wilck;;134</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1177,9 +868,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">104</biblScope>
          <idno type="ddb">bgu;1;104</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1188,9 +876,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">105</biblScope>
          <idno type="ddb">chr.wilck;;346</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1199,9 +884,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">106</biblScope>
          <idno type="ddb">chr.wilck;;174</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1210,9 +892,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">107</biblScope>
          <idno type="ddb">bgu;1;107</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1221,9 +900,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">108</biblScope>
          <idno type="ddb">chr.wilck;;227</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1232,9 +908,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">109</biblScope>
          <idno type="ddb">bgu;1;109</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1243,9 +916,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">110</biblScope>
          <idno type="ddb">bgu;1;110</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1254,9 +924,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">111</biblScope>
          <idno type="ddb">bgu;1;111</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1265,9 +932,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">112</biblScope>
          <idno type="ddb">bgu;1;112</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1276,9 +940,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">113</biblScope>
          <idno type="ddb">chr.wilck;;458</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1287,9 +948,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">114</biblScope>
          <idno type="ddb">chr.mitt;;372</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1298,9 +956,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">115</biblScope>
          <idno type="ddb">chr.wilck;;203</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1309,9 +964,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">116</biblScope>
          <idno type="ddb">bgu;1;116_2</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1320,9 +972,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">116</biblScope>
          <idno type="ddb">bgu;1;116_1</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1331,9 +980,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">117</biblScope>
          <idno type="ddb">bgu;1;117</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1342,9 +988,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">118</biblScope>
          <idno type="ddb">bgu;1;118coli</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1353,9 +996,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">118</biblScope>
          <idno type="ddb">bgu;1;118coliii</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1364,9 +1004,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">118</biblScope>
          <idno type="ddb">bgu;1;118colii</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1375,9 +1012,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">119</biblScope>
          <idno type="ddb">bgu;1;119</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1386,9 +1020,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">120</biblScope>
          <idno type="ddb">bgu;1;120</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1397,9 +1028,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">121</biblScope>
          <idno type="ddb">chr.wilck;;184</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1408,9 +1036,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">122</biblScope>
          <idno type="ddb">bgu;1;122</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1419,9 +1044,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">123</biblScope>
          <idno type="ddb">bgu;1;123</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1430,9 +1052,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">124</biblScope>
          <idno type="ddb">bgu;1;124</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1441,9 +1060,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">125</biblScope>
          <idno type="ddb">bgu;1;125</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1452,9 +1068,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">126</biblScope>
          <idno type="ddb">bgu;1;126</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1463,9 +1076,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">127</biblScope>
          <idno type="ddb">bgu;1;127</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1474,9 +1084,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">128</biblScope>
          <idno type="ddb">bgu;1;128colii</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1485,9 +1092,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">128</biblScope>
          <idno type="ddb">bgu;1;128coli</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1496,9 +1100,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">129</biblScope>
          <idno type="ddb">bgu;1;129</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1507,9 +1108,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">130</biblScope>
          <idno type="ddb">bgu;1;130</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1518,9 +1116,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">131</biblScope>
          <idno type="ddb">sb;20;14327</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1529,9 +1124,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">132</biblScope>
          <idno type="ddb">bgu;1;132</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1540,9 +1132,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">133</biblScope>
          <idno type="ddb">bgu;1;133</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1551,9 +1140,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">134</biblScope>
          <idno type="ddb">bgu;1;134</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1562,9 +1148,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">135</biblScope>
          <idno type="ddb">bgu;1;135</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1573,9 +1156,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">136</biblScope>
          <idno type="ddb">chr.mitt;;86</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1584,9 +1164,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">137</biblScope>
          <idno type="ddb">bgu;1;137</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1595,9 +1172,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">138</biblScope>
          <idno type="ddb">bgu;1;138</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1606,9 +1180,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">139</biblScope>
          <idno type="ddb">bgu;1;139</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1617,9 +1188,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">140</biblScope>
          <idno type="ddb">chr.mitt;;373</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1628,9 +1196,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">141</biblScope>
          <idno type="ddb">bgu;1;141</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1639,9 +1204,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">142</biblScope>
          <idno type="ddb">bgu;1;142</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1650,9 +1212,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">143</biblScope>
          <idno type="ddb">bgu;1;143</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1661,9 +1220,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">144</biblScope>
          <idno type="ddb">bgu;1;144</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1672,9 +1228,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">145</biblScope>
          <idno type="ddb">bgu;1;145</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1683,9 +1236,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">146</biblScope>
          <idno type="ddb">bgu;1;146</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1694,9 +1244,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">147</biblScope>
          <idno type="ddb">bgu;2;376</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1705,9 +1252,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">148</biblScope>
          <idno type="ddb">bgu;11;2083</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1716,9 +1260,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">149</biblScope>
          <idno type="ddb">chr.wilck;;93</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1727,9 +1268,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">150</biblScope>
          <idno type="ddb">bgu;1;150</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1738,9 +1276,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">151</biblScope>
          <idno type="ddb">bgu;1;151</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1749,9 +1284,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">152</biblScope>
          <idno type="ddb">bgu;1;152</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1760,9 +1292,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">153</biblScope>
          <idno type="ddb">bgu;1;153</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1771,9 +1300,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">154</biblScope>
          <idno type="ddb">bgu;1;154</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1782,9 +1308,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">155</biblScope>
          <idno type="ddb">bgu;1;155</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1793,9 +1316,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">156</biblScope>
          <idno type="ddb">chr.wilck;;175</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1804,9 +1324,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">157</biblScope>
          <idno type="ddb">bgu;1;157</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1815,9 +1332,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">158</biblScope>
          <idno type="ddb">bgu;1;158</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1826,9 +1340,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">159</biblScope>
          <idno type="ddb">chr.wilck;;408</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1837,9 +1348,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">160</biblScope>
          <idno type="ddb">bgu;1;160</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1848,9 +1356,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">161</biblScope>
          <idno type="ddb">chr.mitt;;310</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1859,9 +1364,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">162</biblScope>
          <idno type="ddb">sb;24;15918</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1870,9 +1372,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">163</biblScope>
          <idno type="ddb">sb;24;16258</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1881,9 +1380,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">164</biblScope>
          <idno type="ddb">bgu;1;164</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1892,9 +1388,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">165</biblScope>
          <idno type="ddb">bgu;1;165</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1903,9 +1396,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">166</biblScope>
          <idno type="ddb">bgu;1;166</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1914,9 +1404,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">167</biblScope>
          <idno type="ddb">bgu;1;167</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1925,9 +1412,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">168</biblScope>
          <idno type="ddb">bgu;1;168</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1936,9 +1420,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">169</biblScope>
          <idno type="ddb">bgu;1;169</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1947,9 +1428,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">170</biblScope>
          <idno type="ddb">bgu;1;170</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1958,9 +1436,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">171</biblScope>
          <idno type="ddb">bgu;1;171</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1969,9 +1444,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">172</biblScope>
          <idno type="ddb">bgu;1;172</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1980,9 +1452,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">173</biblScope>
          <idno type="ddb">bgu;1;173</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -1991,9 +1460,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">174</biblScope>
          <idno type="ddb">bgu;1;174</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2002,9 +1468,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">175</biblScope>
          <idno type="ddb">bgu;1;175</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2013,9 +1476,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">176</biblScope>
          <idno type="ddb">chr.wilck;;83</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2024,9 +1484,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">177</biblScope>
          <idno type="ddb">bgu;1;177</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2035,9 +1492,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">178</biblScope>
          <idno type="ddb">sb;20;14966</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2046,9 +1500,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">179</biblScope>
          <idno type="ddb">bgu;1;179</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2057,9 +1508,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">180</biblScope>
          <idno type="ddb">bgu;1;180</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2068,9 +1516,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">181</biblScope>
          <idno type="ddb">bgu;1;181</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2079,9 +1524,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">182</biblScope>
          <idno type="ddb"/>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2090,9 +1532,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">183</biblScope>
          <idno type="ddb">bgu;1;183</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2101,9 +1540,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">184</biblScope>
          <idno type="ddb">chr.mitt;;202</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2112,9 +1548,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">185</biblScope>
          <idno type="ddb">bgu;1;185</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2123,9 +1556,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">186</biblScope>
          <idno type="ddb">bgu;1;186</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2134,9 +1564,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">187</biblScope>
          <idno type="ddb">bgu;1;187</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2145,9 +1572,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">188</biblScope>
          <idno type="ddb">bgu;1;188</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2156,9 +1580,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">189</biblScope>
          <idno type="ddb">bgu;1;189</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2167,9 +1588,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">190</biblScope>
          <idno type="ddb">bgu;1;190</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2178,9 +1596,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">191</biblScope>
          <idno type="ddb">bgu;1;191</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2189,9 +1604,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">192</biblScope>
          <idno type="ddb">bgu;1;192dupl</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2200,9 +1612,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">193</biblScope>
          <idno type="ddb">bgu;1;193</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2211,9 +1620,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">194</biblScope>
          <idno type="ddb">chr.wilck;;84</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2222,9 +1628,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">195</biblScope>
          <idno type="ddb">bgu;1;195</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2233,9 +1636,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">196</biblScope>
          <idno type="ddb">bgu;1;196</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2244,9 +1644,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">197</biblScope>
          <idno type="ddb">bgu;1;197</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2255,9 +1652,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">198</biblScope>
          <idno type="ddb">sb;26;16738</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2266,9 +1660,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">199</biblScope>
          <idno type="ddb">bgu;1;199r</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2277,9 +1668,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">199</biblScope>
          <idno type="ddb">bgu;1;199v</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2288,9 +1676,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">200</biblScope>
          <idno type="ddb">bgu;1;200</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2299,9 +1684,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">201</biblScope>
          <idno type="ddb">bgu;1;201</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2310,9 +1692,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">202</biblScope>
          <idno type="ddb">bgu;1;202</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2321,9 +1700,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">203</biblScope>
          <idno type="ddb">bgu;1;203</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2332,9 +1708,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">204</biblScope>
          <idno type="ddb">bgu;1;204</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2343,9 +1716,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">205</biblScope>
          <idno type="ddb">bgu;1;205</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2354,9 +1724,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">206</biblScope>
          <idno type="ddb">bgu;1;206</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2365,9 +1732,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">207</biblScope>
          <idno type="ddb">bgu;1;207</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2376,9 +1740,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">208</biblScope>
          <idno type="ddb">bgu;1;208</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2387,9 +1748,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">209</biblScope>
          <idno type="ddb">bgu;1;209</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2398,9 +1756,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">210</biblScope>
          <idno type="ddb">bgu;1;210</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2409,9 +1764,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">211</biblScope>
          <idno type="ddb">bgu;1;211</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2420,9 +1772,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">212</biblScope>
          <idno type="ddb">bgu;1;212</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2431,9 +1780,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">213</biblScope>
          <idno type="ddb">bgu;1;213</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2442,9 +1788,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">214</biblScope>
          <idno type="ddb">bgu;1;214</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2453,9 +1796,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">215</biblScope>
          <idno type="ddb">bgu;1;215</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2464,9 +1804,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">216</biblScope>
          <idno type="ddb">bgu;1;216</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2475,9 +1812,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">217</biblScope>
          <idno type="ddb">bgu;1;217</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2486,9 +1820,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">218</biblScope>
          <idno type="ddb">bgu;1;218</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2497,9 +1828,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">219</biblScope>
          <idno type="ddb"/>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2508,9 +1836,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">220</biblScope>
          <idno type="ddb">bgu;1;220</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2519,9 +1844,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">221</biblScope>
          <idno type="ddb">bgu;1;221</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2530,9 +1852,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">222</biblScope>
          <idno type="ddb">bgu;1;222</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2541,9 +1860,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">223</biblScope>
          <idno type="ddb">bgu;1;223</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2552,9 +1868,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">224</biblScope>
          <idno type="ddb">bgu;1;224dupl</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2563,9 +1876,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">225</biblScope>
          <idno type="ddb">bgu;1;225</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2574,9 +1884,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">226</biblScope>
          <idno type="ddb">chr.mitt;;50</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2585,9 +1892,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">227</biblScope>
          <idno type="ddb">bgu;1;227</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2596,9 +1900,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">228</biblScope>
          <idno type="ddb">bgu;1;228</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2607,9 +1908,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">229</biblScope>
          <idno type="ddb">bgu;1;229</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2618,9 +1916,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">230</biblScope>
          <idno type="ddb">bgu;1;230</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2629,9 +1924,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">231</biblScope>
          <idno type="ddb">bgu;1;231</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2640,9 +1932,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">232</biblScope>
          <idno type="ddb">bgu;1;232</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2651,9 +1940,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">233</biblScope>
          <idno type="ddb">bgu;1;233</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2662,9 +1948,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">234</biblScope>
          <idno type="ddb">bgu;1;234</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2673,9 +1956,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">235</biblScope>
          <idno type="ddb">chr.wilck;;399</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2684,9 +1964,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">236</biblScope>
          <idno type="ddb">bgu;3;883</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2695,9 +1972,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">237</biblScope>
          <idno type="ddb">bgu;1;237</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2706,9 +1980,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">238</biblScope>
          <idno type="ddb">bgu;1;238</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2717,9 +1988,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">239</biblScope>
          <idno type="ddb">bgu;15;2472</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2728,9 +1996,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">240</biblScope>
          <idno type="ddb">bgu;1;240</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2739,9 +2004,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">241</biblScope>
          <idno type="ddb">bgu;1;241</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2750,9 +2012,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">242</biblScope>
          <idno type="ddb">chr.mitt;;116</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2761,9 +2020,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">243</biblScope>
          <idno type="ddb">bgu;1;243</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2772,9 +2028,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">244</biblScope>
          <idno type="ddb">bgu;1;244</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2783,9 +2036,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">245</biblScope>
          <idno type="ddb">sb;16;12555</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2794,9 +2044,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">246</biblScope>
          <idno type="ddb">bgu;1;246</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2805,9 +2052,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">247</biblScope>
          <idno type="ddb">bgu;1;247</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2816,9 +2060,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">248</biblScope>
          <idno type="ddb">bgu;1;248</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2827,9 +2068,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">249</biblScope>
          <idno type="ddb">bgu;1;249</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2838,9 +2076,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">250</biblScope>
          <idno type="ddb">chr.wilck;;87</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2849,9 +2084,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">251</biblScope>
          <idno type="ddb">bgu;1;251</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2860,9 +2092,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">252</biblScope>
          <idno type="ddb">bgu;1;252</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2871,9 +2100,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">253</biblScope>
          <idno type="ddb">bgu;1;253</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2882,9 +2108,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">254</biblScope>
          <idno type="ddb">c.pap.gr;2.1;49</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2893,9 +2116,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">255</biblScope>
          <idno type="ddb">bgu;1;255</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2904,9 +2124,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">256</biblScope>
          <idno type="ddb">bgu;1;256</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2915,9 +2132,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">257</biblScope>
          <idno type="ddb">bgu;1;257</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2926,9 +2140,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">258</biblScope>
          <idno type="ddb">bgu;1;258</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2937,9 +2148,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">259</biblScope>
          <idno type="ddb">bgu;1;259</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2948,9 +2156,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">260</biblScope>
          <idno type="ddb">bgu;1;260</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2959,9 +2164,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">261</biblScope>
          <idno type="ddb">bgu;1;261</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2970,9 +2172,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">262</biblScope>
          <idno type="ddb">bgu;1;262</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2981,9 +2180,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">263</biblScope>
          <idno type="ddb">bgu;1;263</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -2992,9 +2188,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">264</biblScope>
          <idno type="ddb">bgu;1;264</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3003,9 +2196,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">265</biblScope>
          <idno type="ddb">chr.wilck;;459</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3014,9 +2204,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">266</biblScope>
          <idno type="ddb">chr.wilck;;245</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3025,9 +2212,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">267</biblScope>
          <idno type="ddb">bgu;1;267</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3036,9 +2220,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">268</biblScope>
          <idno type="ddb">bgu;1;268</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3047,9 +2228,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">269</biblScope>
          <idno type="ddb">bgu;1;269</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3058,9 +2236,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">270</biblScope>
          <idno type="ddb">bgu;1;270</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3069,9 +2244,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">271</biblScope>
          <idno type="ddb">bgu;1;271</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3080,9 +2252,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">272</biblScope>
          <idno type="ddb">bgu;1;272</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3091,9 +2260,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">273</biblScope>
          <idno type="ddb">bgu;1;273</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3102,9 +2268,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">274</biblScope>
          <idno type="ddb">bgu;1;274</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3113,9 +2276,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">275</biblScope>
          <idno type="ddb">bgu;1;275</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3124,9 +2284,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">276</biblScope>
          <idno type="ddb">bgu;1;276</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3135,9 +2292,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">277</biblScope>
          <idno type="ddb">bgu;1;277</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3146,9 +2300,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">278</biblScope>
          <idno type="ddb">bgu;1;278</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3157,9 +2308,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">279</biblScope>
          <idno type="ddb">bgu;1;279</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3168,9 +2316,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">280</biblScope>
          <idno type="ddb">bgu;1;280</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3179,9 +2324,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">281</biblScope>
          <idno type="ddb">bgu;1;281</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3190,9 +2332,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">282</biblScope>
          <idno type="ddb">bgu;1;282</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3201,9 +2340,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">283</biblScope>
          <idno type="ddb">bgu;1;283</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3212,9 +2348,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">284</biblScope>
          <idno type="ddb">bgu;1;284</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3223,9 +2356,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">285</biblScope>
          <idno type="ddb">bgu;1;285</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3234,9 +2364,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">286</biblScope>
          <idno type="ddb">bgu;1;286</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3245,9 +2372,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">287</biblScope>
          <idno type="ddb">chr.wilck;;124</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3256,9 +2380,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">288</biblScope>
          <idno type="ddb">bgu;1;288</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3267,9 +2388,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">289</biblScope>
          <idno type="ddb">bgu;1;289</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3278,9 +2396,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">290</biblScope>
          <idno type="ddb">bgu;1;290</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3289,9 +2404,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">291</biblScope>
          <idno type="ddb">chr.wilck;;364</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3300,9 +2412,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">292</biblScope>
          <idno type="ddb">bgu;1;292</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3311,9 +2420,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">293</biblScope>
          <idno type="ddb">bgu;1;293</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3322,9 +2428,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">294</biblScope>
          <idno type="ddb">bgu;1;294</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3333,9 +2436,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">295</biblScope>
          <idno type="ddb">bgu;1;295</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3344,9 +2444,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">296</biblScope>
          <idno type="ddb">sb;16;12785</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3355,9 +2452,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">297</biblScope>
          <idno type="ddb">c.pap.gr;1;20</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3366,9 +2460,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">298</biblScope>
          <idno type="ddb">bgu;1;298</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3377,9 +2468,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">299</biblScope>
          <idno type="ddb">bgu;1;299</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3388,9 +2476,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">300</biblScope>
          <idno type="ddb">bgu;1;300</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3399,9 +2484,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">301</biblScope>
          <idno type="ddb">bgu;1;301</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3410,9 +2492,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">302</biblScope>
          <idno type="ddb">sb;20;14329</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3421,9 +2500,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">303</biblScope>
          <idno type="ddb">bgu;1;303</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3432,9 +2508,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">304</biblScope>
          <idno type="ddb">bgu;1;304</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3443,9 +2516,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">305</biblScope>
          <idno type="ddb">bgu;1;305</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3454,9 +2524,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">306</biblScope>
          <idno type="ddb">bgu;1;306</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3465,9 +2532,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">307</biblScope>
          <idno type="ddb">bgu;1;307</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3476,9 +2540,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">308</biblScope>
          <idno type="ddb">bgu;1;308</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3487,9 +2548,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">309</biblScope>
          <idno type="ddb">bgu;1;309</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3498,9 +2556,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">310</biblScope>
          <idno type="ddb">bgu;1;310</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3509,9 +2564,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">311</biblScope>
          <idno type="ddb">bgu;1;311</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3520,9 +2572,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">312</biblScope>
          <idno type="ddb">bgu;1;312</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3531,9 +2580,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">313</biblScope>
          <idno type="ddb">bgu;1;313</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3542,9 +2588,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">314</biblScope>
          <idno type="ddb">bgu;1;314</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3553,9 +2596,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">315</biblScope>
          <idno type="ddb">bgu;1;315</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3564,9 +2604,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">316</biblScope>
          <idno type="ddb">bgu;1;316</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3575,9 +2612,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">317</biblScope>
          <idno type="ddb">bgu;1;317</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3586,9 +2620,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">318</biblScope>
          <idno type="ddb">cpr;10;24</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3597,9 +2628,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">319</biblScope>
          <idno type="ddb">bgu;1;319</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3608,9 +2636,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">320</biblScope>
          <idno type="ddb">bgu;1;320</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3619,9 +2644,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">321</biblScope>
          <idno type="ddb">bgu;1;321rpdupl</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3630,9 +2652,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">322</biblScope>
          <idno type="ddb">bgu;1;322</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3641,9 +2660,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">323</biblScope>
          <idno type="ddb">bgu;1;323</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3652,9 +2668,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">324</biblScope>
          <idno type="ddb">chr.wilck;;219</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3663,9 +2676,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">325</biblScope>
          <idno type="ddb">chr.wilck;;472</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3674,9 +2684,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">326</biblScope>
          <idno type="ddb">chr.mitt;;316</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3685,9 +2692,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">327</biblScope>
          <idno type="ddb">bgu;1;327</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3696,9 +2700,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">328</biblScope>
          <idno type="ddb">bgu;1;328</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3707,9 +2708,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">329</biblScope>
          <idno type="ddb">bgu;1;329</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3718,9 +2716,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">330</biblScope>
          <idno type="ddb">bgu;1;330</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3729,9 +2724,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">331</biblScope>
          <idno type="ddb">bgu;1;331</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3740,9 +2732,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">332</biblScope>
          <idno type="ddb">bgu;1;332</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3751,9 +2740,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">333</biblScope>
          <idno type="ddb">chr.wilck;;489</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3762,9 +2748,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">334</biblScope>
          <idno type="ddb">bgu;1;334</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3773,9 +2756,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">335</biblScope>
          <idno type="ddb">bgu;1;335</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3784,9 +2764,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">336</biblScope>
          <idno type="ddb">bgu;1;336</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3795,9 +2772,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">337</biblScope>
          <idno type="ddb">p.louvre;1;4</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3806,9 +2780,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">338</biblScope>
          <idno type="ddb">bgu;1;338</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3817,9 +2788,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">339</biblScope>
          <idno type="ddb">bgu;1;339</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3828,9 +2796,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">340</biblScope>
          <idno type="ddb">bgu;1;340</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3839,9 +2804,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">342</biblScope>
          <idno type="ddb">bgu;1;342</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3850,9 +2812,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">343</biblScope>
          <idno type="ddb">bgu;1;343</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3861,9 +2820,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">344</biblScope>
          <idno type="ddb">bgu;1;344</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3872,9 +2828,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">345</biblScope>
          <idno type="ddb">bgu;1;345</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3883,9 +2836,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">346</biblScope>
          <idno type="ddb">bgu;1;346</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3894,9 +2844,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">347</biblScope>
          <idno type="ddb">bgu;1;347</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3905,9 +2852,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">348</biblScope>
          <idno type="ddb">bgu;1;348</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3916,9 +2860,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">349</biblScope>
          <idno type="ddb">bgu;1;349</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3927,9 +2868,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">350</biblScope>
          <idno type="ddb">bgu;1;350</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3938,9 +2876,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">351</biblScope>
          <idno type="ddb">bgu;1;351</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3949,9 +2884,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">352</biblScope>
          <idno type="ddb">bgu;1;352</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3960,9 +2892,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">353</biblScope>
          <idno type="ddb">bgu;1;353</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3971,9 +2900,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">354</biblScope>
          <idno type="ddb">bgu;1;354</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3982,9 +2908,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">355</biblScope>
          <idno type="ddb">bgu;1;355</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -3993,9 +2916,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">356</biblScope>
          <idno type="ddb">chr.wilck;;88</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -4004,9 +2924,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">357</biblScope>
          <idno type="ddb">bgu;1;357</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -4015,9 +2932,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">358</biblScope>
          <idno type="ddb">chr.wilck;;246</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -4026,9 +2940,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">359</biblScope>
          <idno type="ddb">bgu;1;359</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -4037,9 +2948,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">360</biblScope>
          <idno type="ddb">bgu;1;360</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
    <relatedItem type="mentions">
@@ -4048,9 +2956,6 @@
          <biblScope type="vol">I</biblScope>
          <biblScope type="num">361</biblScope>
          <idno type="ddb">bgu;1;361</idno>
-         <seg type="original" subtype="MF" resp="#Checklist">MF 1.1</seg>
-         <seg type="original" subtype="Pub" resp="#Checklist">rp. CG</seg>
-         <seg type="original" resp="#Checklist">Nos. 1—361.</seg>
       </bibl>
    </relatedItem>
 </bibl>
