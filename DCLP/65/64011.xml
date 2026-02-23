@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="m64011" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -70,13 +70,76 @@
                <term type="religion">classical</term>
             </keywords>
          </textClass>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="grc">Greek</language>
+         </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change when="2014-12-10" who="DCLP">Crosswalked to EpiDoc XML</change>
+          <change when="2014-12-10" who="DCLP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
+         <div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="r" type="textpart"><ab>
+<lb n="1"/>πόσιμον <choice><reg>πεπιρασμ<supplied reason="lost">έν</supplied>ον</reg><orig>πεπειρασμένον</orig></choice> ὑπὸ πολλῶν. λαβὼ<supplied reason="lost">ν ἕν φύλ</supplied>
+<lb n="2" break="no"/>λον ἀμπέλου τῇ ἀρ<supplied reason="lost">ισ</supplied>τερᾷ <choice><reg>χιρὶ</reg><orig>χειρὶ</orig></choice> δυσὶ δακτύλοις, κ<supplied reason="lost">ατάθες</supplied>
+<lb n="3"/>εἰς τὴν δεξιὰν <choice><reg>χῖρα</reg><orig>χεῖρα</orig></choice> καὶ καθυπόγραψον εἰς τ<supplied reason="lost">ὸ φύλλον</supplied>
+<lb n="4"/><expan>ζ<ex>μύ</ex>ρ<ex>ν</ex>ῃ</expan> τὰ <choice><reg>ὑποκίμενα</reg><orig>ὑποκείμενα</orig></choice> ὀνόματα, καὶ γὰρ ἀπόρρη<supplied reason="lost">τα· τὸ ὄνο</supplied>
+<lb n="5" break="no"/>μά ἐστιν τῆς<hi rend="lenis">Α</hi>φροδίτης· αζανδω ιαζα <gap reason="lost" quantity="8" unit="character" precision="low"/>
+<lb n="6"/>αζαρ<unclear>α</unclear>οιαβαλ<unclear>η</unclear><gap reason="lost" quantity="2" unit="character"/>αρμαρ<hi rend="superscript">ι</hi>δα φνουνι α<gap reason="lost" quantity="8" unit="character" precision="low"/>
+<lb n="7"/>ζαθεωου Αβραϲ<unclear>αξ</unclear> <hi rend="supraline">εεε</hi> ηη ιιιι οοοο<unclear>ο</unclear><supplied reason="lost">υυυυυυ</supplied>
+<lb n="8"/>ωωωωωωω  <choice><reg>φιλ<supplied reason="lost">ί</supplied>τω</reg><orig>φιλείτω</orig></choice> με ἡ <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan> τὸν <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan> θίῳ κα<supplied reason="lost">ὶ ἀπορ</supplied>
+<lb n="9" break="no"/>ρήτῳ καὶ ἀκαταπαύστῳ ἔρωτι. ὑπόταξε ἐ<supplied reason="lost">μοὶ τῷ <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan></supplied>
+<lb n="10"/>ἤδη <hi rend="supraline">β</hi>, ταχὺ <supplied reason="lost"><hi rend="supraline">β</hi></supplied> κλύσο<supplied reason="lost">ν</supplied> τὸ φ<supplied reason="lost">ύ</supplied><unclear>λ</unclear>λον ἐν ἀκράτῳ <supplied reason="lost" cert="low">οἴνῳ καὶ </supplied>
+<lb n="11"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" quantity="9" unit="character" precision="low"/>υσ<gap reason="lost" quantity="2" unit="character"/>δὸς <choice><reg>πεῖν</reg><orig>πιεῖν</orig></choice> καὶ <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="8" unit="character" precision="low"/><supplied reason="lost">ἕ</supplied>
+<lb n="12" break="no"/>ως τεσσ<supplied reason="lost">αράκις<space extent="unknown" unit="character"/></supplied>
+<lb n="13"/>μυρικήσι<supplied reason="lost">ον·<space quantity="3" unit="character"/>λαβὼν ὀμβρίο</supplied>υ<hi rend="asper">υ</hi>γρόν, κατάθ<supplied reason="lost">ες εἰς ἄγ</supplied>
+<lb n="14" break="no"/>γος καὶ <app type="editorial"><lem>βά<unclear>λ</unclear><gap reason="lost" quantity="14" unit="character" precision="low"/><supplied reason="lost">εἰ</supplied>ς τὸν</lem><rdg resp="Jordan">βάλ<supplied reason="lost">ε γύρινον εἰς σκεπα</supplied>στὸν</rdg></app> ὀμβρίου<hi rend="asper">υ</hi>γ<supplied reason="lost">ρόν· μετὰ</supplied>
+<lb n="15"/><expan>ἡμ<ex>έρας</ex></expan> <hi rend="supraline">μ</hi> εὑρή<supplied reason="lost">σεις</supplied><gap reason="lost" quantity="13" unit="character" precision="low"/> οὗ λαβὼν τὸ αἷμ<supplied reason="lost">α γράψον</supplied>
+<lb n="16"/><app type="editorial"><lem>εἰς δέρμ<supplied reason="lost">α</supplied> <gap reason="lost" quantity="1" unit="character"/>ν <gap reason="lost" quantity="12" unit="character" precision="low"/><supplied reason="lost">γρά</supplied>ψον</lem><rdg resp="Jordan">εἰς δέρμ<supplied reason="lost">α ἣ</supplied>ν <supplied reason="lost">θέλεις μισεῖν ἶτα γρά</supplied>ψον</rdg></app>  καὶ ἐν τῷ ἐλά<supplied reason="lost">σματι</supplied>
+<lb n="17"/>ὅν <choice><reg>θέλις</reg><orig>θέλεις</orig></choice> μ<supplied reason="lost">υρικωθῆναι</supplied><gap reason="lost" quantity="6" unit="character" precision="low"/>α<hi rend="supraline">βρ</hi>ακ  βρ<hi rend="supraline">αβα</hi><gap reason="lost" quantity="6" unit="character" precision="low"/>
+<lb n="18"/>αβραβα<supplied reason="lost">.</supplied>.<supplied reason="lost"> <note xml:lang="en">vox magica</note> μυρί</supplied><expan><hi rend="supraline">κ</hi><ex>ω</ex><hi rend="supraline">σ</hi><ex>ον</ex></expan> τὸν <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan> πρὸς τ<unclear>ὴ</unclear><supplied reason="lost">ν <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan><gap reason="illegible" quantity="1" unit="character"/></supplied>
+<lb n="19"/><hi rend="supraline">κατ</hi>άδεσμ<supplied reason="lost">ος</supplied><gap reason="lost" quantity="14" unit="character" precision="low"/> ποιῇς τὰ το<gap reason="lost" quantity="5" unit="character" precision="low"/><supplied reason="lost">ἄ</supplied>
+<lb n="20" break="no"/>ξῆς <app type="editorial"><lem>διὰ <gap reason="lost" quantity="11" unit="character" precision="low"/>αν</lem><rdg resp="Jordan">διὰ <supplied reason="lost">χαρακτήρων ἐ</supplied>ὰν</rdg></app> κρίνῃ ε<gap reason="lost" quantity="6" unit="character" precision="low"/>
+<lb n="21"/>ποιεῖ πά<supplied reason="lost">ντα· λαβὼν τάβλαν</supplied> <choice><reg>κασιτερίν<supplied reason="lost">ην</supplied></reg><orig>κασσιτερίν<supplied reason="lost">ην</supplied></orig></choice> <supplied reason="lost">ἐγχά</supplied>
+<lb n="22" break="no"/>ραξον τ<supplied reason="lost">οὺς χαρακτήρας καὶ·</supplied> <choice><reg>φιλίτω</reg><orig>φιλείτω</orig></choice> με <supplied reason="lost">τὸν <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan>, ὅν</supplied> <expan><supplied reason="lost">ἔ</supplied>
+<lb n="23" break="no"/>τεκ<ex>εν</ex></expan> ἡ <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan> <supplied reason="lost">ἡ <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan>, ἥν <expan>ἔτεκ<ex>εν</ex></expan> ἡ <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan>, καὶ ἐν πά</supplied>σῃ περιπτ<supplied reason="lost">ώσει· ἐπὶ τὴν</supplied>
+<lb n="24"/>τάβλαν <supplied reason="lost">ταύτην ἐγχάραξον καὶ</supplied> ὅτι· καταδῶ <supplied reason="lost">τὴν <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan> αἰγυ</supplied>
+<lb n="25" break="no"/>πτιστὶ <app type="editorial"><lem>κ<supplied reason="lost">ατὰ τοῦ</supplied><gap reason="lost" quantity="12" unit="character" precision="low"/></lem><rdg resp="Jordan">κ<supplied reason="lost">ατὰ τοῦ μεγάλου θεοῦ</supplied></rdg></app> <note xml:lang="en">charakteres</note> <supplied reason="lost"><note xml:lang="en">charakteres</note></supplied><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
+<lb n="26"/>IAI <note xml:lang="en">charakteres</note> <supplied reason="lost"><note xml:lang="en">charakteres</note></supplied><g type="middot"/> <supplied reason="lost">φιλείτω με</supplied>
+<lb n="27"/>ἡ <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan> <unclear>διὰ</unclear> τῶ<supplied reason="lost">ν χαρακτήρων τούτων</supplied>
+</ab></div>
+<div n="v" type="textpart"><ab>
+<lb n="1"/><supplied reason="lost">ὕμνος ἐ</supplied>ντυχίας πρὸς <expan><ex>ἥλιον</ex></expan> ποιεῖ δὲ <supplied reason="lost">καὶ</supplied> πάντα π<unclear>ρὸς</unclear> νόμον
+<lb n="2"/><supplied reason="lost">καὶ δικ</supplied>αστήριον καὶ θυμούς ἡγεμ<unclear>ό</unclear><supplied reason="lost">ν</supplied><unclear>ω</unclear>ν καὶ πρὸς πᾶσαν
+<lb n="3"/><app type="editorial"><lem><supplied reason="lost">ἀνάγκη</supplied>ν</lem><rdg resp="Jordan"><supplied reason="lost">ἀνάγκη</supplied>ν</rdg></app> ὅσα <choice><reg>θέλις</reg><orig>θέλεις</orig></choice> <choice><reg>ἐντυνχάνιν</reg><orig>ἐντυγχάνειν</orig></choice>. ἔστι <supplied reason="lost">δ</supplied>έ·<space quantity="4" unit="character"/>χαῖρέ μοι, ὁ
+<lb n="4"/><supplied reason="lost">ἀνατέλλ</supplied>ων ἐκ τοῦ<hi rend="diaeresis">ὑ</hi>λώδους διαστήματος, ἄστερ εκμηφ
+<lb n="5"/><supplied reason="lost">σατραπε</supplied>ρκμηφ αφθπαι, ὁ ἀρχομενος παῖς καὶ λήγων πρεσ
+<lb n="6" break="no"/><supplied reason="lost">βύτης, ὁ ἐ</supplied>πὶ τοῦ λωτοῦ, ᾧ ὁ ουρανός <supplied reason="lost">ἐ</supplied>γένετο κωμαστήρι-
+<lb n="7"/><supplied reason="lost">ον, ὁ ἐπάνω</supplied> Χερουβι· χαῖρε μοι, Αβραϲα<supplied reason="lost">ξ, ὁ</supplied> καλούμενος αἰθέ
+<lb n="8"/><supplied reason="lost">ριος γενν</supplied>ήτωρ <hi rend="supraline">ελω</hi>ευ. ϲὺ <choice><reg>ἶ̈</reg><orig>εἶ</orig></choice> ὁ μέγας <hi rend="supraline">αρου</hi>ηρ· σὺ <choice><reg>ἶ̈</reg><orig>εἶ</orig></choice> ὁ μέγας
+<lb n="9"/><supplied reason="lost">θεός ὁ ἐπικ</supplied>αλούμενος ἐν <choice><reg>Μέμφι</reg><orig>Μέμφει</orig></choice> Ἥφ<unclear>α</unclear><supplied reason="lost">ι</supplied><unclear>σ</unclear>τος· σὺ <choice><reg>ἶ̈</reg><orig>εἶ</orig></choice> τὸ <choice><reg>στοιχῖον</reg><orig>στοιχεῖον</orig></choice>
+<lb n="10"/><supplied reason="lost">τὸ ἀγέν</supplied>νητον τὸ γενηθὲν ἐν τῷ ἀενάῳ, δι’ ὃν αὐγή, δι’
+<lb n="11"/><supplied reason="lost">ὃν καὶ σκό</supplied><unclear>τ</unclear><supplied reason="lost">ο</supplied>ς, δι’ ὃν ζ<unclear>ω</unclear>ὴ καὶ <unclear>θ</unclear><supplied reason="lost">ά</supplied>νάτο<unclear>ς</unclear>, ἀπ’ <unclear>α</unclear><supplied reason="lost">ὐ</supplied><unclear>χ</unclear>ένων εἰς
+<lb n="12"/><app type="editorial"><lem><gap reason="lost" quantity="8" unit="character" precision="low"/><supplied reason="lost">τ</supplied>ῶν αἰώνων</lem><rdg resp="Jordan"><supplied reason="lost">σὺ εἶ ὁ ἐπὶ τ</supplied>ῶν αἰώνων</rdg></app> <gap reason="lost" quantity="2" unit="character"/>ορα<gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> τ<gap reason="lost" quantity="2" unit="character"/><unclear>σουμβ</unclear><gap reason="illegible" quantity="1" unit="character"/>ιο
+<lb n="13"/><gap reason="lost" quantity="8" unit="character" precision="low"/><supplied reason="lost">το</supplied>ῦ παπυρῶ<supplied reason="lost">νος</supplied><gap reason="lost" quantity="12" unit="character" precision="low"/><gap reason="illegible" quantity="1" unit="character"/>ρ<gap reason="illegible" quantity="2" unit="character"/>ω
+<lb n="14"/><gap reason="lost" quantity="5" unit="character" precision="low"/><gap reason="illegible" quantity="1" unit="character"/>αε<hi rend="supraline">ηιουω</hi> <app type="editorial"><lem>π<unclear>ρ</unclear><gap reason="lost" quantity="15" unit="character" precision="low"/> βιου βιβιο<supplied reason="lost">υ</supplied></lem><rdg resp="Jordan">π<unclear>ρ</unclear><supplied reason="lost">κμημ βιου βιβιου</supplied> βιου βιβιο<supplied reason="lost">υ</supplied></rdg></app>
+<lb n="15"/><supplied reason="lost">βιου βιβ</supplied>ιου καὶ τὸ κρυπτὸ<supplied reason="lost">ν ὄνομα</supplied><gap reason="lost" quantity="6" unit="character" precision="low"/> ανατι
+<lb n="16"/><gap reason="lost" quantity="5" unit="character" precision="low"/><supplied reason="lost">λ</supplied>αμπρ<unclear>ὸν</unclear> ἱλαρός <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="11" unit="character" precision="low"/> ποίησον
+<lb n="17"/><supplied reason="lost">λαμπρό</supplied>ν, ἱλαρόν· ἐπικ<unclear>α</unclear><supplied reason="lost">λοῦμαι</supplied><gap reason="lost" quantity="6" unit="character" precision="low"/> <gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" quantity="1" unit="character"/>ὅτι σε
+<lb n="18"/><app type="editorial"><lem><supplied reason="lost">ὁρκίζω</supplied></lem><rdg resp="Jordan"><supplied reason="lost">ὀρκίζει</supplied></rdg></app><supplied reason="lost">Ια</supplied>εωβαφρενε<supplied reason="lost">μοιονεμοθιλαρικιφι</supplied>αευεαϊ
+<lb n="19"/><supplied reason="lost">φιρκιρα</supplied>λιθομενοιομ<supplied reason="lost">ενεφαβωεαι, ὅπ</supplied><unclear>ως</unclear> <supplied reason="lost">ἐ</supplied>νθεωρήσῃς
+<lb n="20"/><gap reason="lost" quantity="4" unit="character" precision="low"/><supplied reason="lost">εἰ</supplied>ς τὸν αἰῶνα <gap reason="lost" quantity="13" unit="character" precision="low"/> Μίθρα σ<hi rend="supraline">ου</hi>
+<lb n="21" break="no"/><supplied reason="lost">μαρτα</supplied> μα<hi rend="supraline">ρβαχαρβ<unclear>α</unclear></hi><gap reason="lost" quantity="12" unit="character" precision="low"/><hi rend="supraline">ηφ</hi>ιω
+<lb n="22"/><gap reason="lost" quantity="5" unit="character" precision="low"/> <gap reason="illegible" quantity="1" unit="character"/> αἰ<hi rend="supraline">ῶν</hi>ι <gap reason="lost" quantity="15" unit="character" precision="low"/><unclear>δ</unclear>ὲ καὶ
+<lb n="23"/><supplied reason="lost">ἀρρήτῳ</supplied> καὶ ἀκατα<unclear>π</unclear><supplied reason="lost">αύστῳ</supplied><gap reason="lost" quantity="10" unit="character" precision="low"/><unclear> </unclear>ω
+<lb n="24"/><gap reason="lost" quantity="5" unit="character" precision="low"/> <hi rend="supraline">ωραχ</hi>ιφ <gap reason="lost" quantity="17" unit="character" precision="low"/>ησ<hi rend="supraline">ο</hi>
+<lb n="25"/><gap reason="lost" quantity="5" unit="character" precision="low"/><supplied reason="lost">ἀ</supplied>κτῖνά σο<unclear>υ</unclear><gap reason="lost" quantity="14" unit="character" precision="low"/> οα
+<lb n="26"/><gap reason="lost" quantity="9" unit="character" precision="low"/> <gap reason="lost" quantity="18" unit="character" precision="low"/>την
+<lb n="27"/><gap reason="lost" quantity="27" unit="character" precision="low"/> ς ὁ αἰών
+</ab></div></div>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="reference" subtype="principal">
@@ -89,7 +152,6 @@
                </bibl>
             </listBibl>
          </div>
-         <div type="edition" xml:space="preserve"/>
          <div type="bibliography" subtype="illustrations">
             <listBibl>
                <bibl type="printed">GRBS 46 (2006), pl. 1-2</bibl>
