@@ -7,13 +7,15 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>p.lond.1.138-pxix</title>
+            <title>p.lond.1.138</title>
          </titleStmt>
          <publicationStmt>
             <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
-            <idno type="filename">p.lond.1.138-pxix</idno>
+            <idno type="filename">p.lond.1.138</idno>
             <idno type="ddb-perseus-style">0154;1;138,pxix</idno>
-            <idno type="ddb-hybrid">p.lond;1;138,pxix</idno>
+            <idno type="ddb-hybrid">p.lond;1;138</idno>
+            <idno type="HGV">114822</idno>
+            <idno type="TM">114822</idno>
             <availability>
                <p>© Duke Databank of Documentary Papyri. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
             </availability>
@@ -40,7 +42,8 @@
    <text>
       <body>
          <head xml:lang="en">
-            <ref n="p.ital;2;46" type="reprint-in">PItal 2,46</ref>
+            <ref n="p.ital;2;46" type="reprint-in">P.Ital. 2 46</ref>
+            <ref n="chla;3;199" type="reprint-in">ChLA 3 199</ref>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab/></div>
       </body>
