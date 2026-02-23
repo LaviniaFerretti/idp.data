@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Suppl. Mag. 2 73</title>
+            <title>GEMF 7</title>
          </titleStmt>
          <publicationStmt>
             <authority>Digital Corpus of Literary Papyri</authority>
@@ -14,7 +14,11 @@
             <idno type="filename">65843</idno>
             <idno type="dclp-hybrid">suppl.mag;2;73</idno>
             <availability>
-               <p>© Digital Corpus of Literary Papyri. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+               <p>
+            © Digital Corpus of Literary Papyri. This work is licensed under a
+            <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>
+            .
+          </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -38,15 +42,15 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>Found: Egypt; written: Egypt</origPlace>
+                     <origPlace>Fundort: Egypt; Schreibort: Egypt</origPlace>
                      <origDate notBefore="0001" notAfter="0099">1 - 99</origDate>
                   </origin>
-                  <provenance type="found">
+                  <provenance n="1" type="found">
                      <p>
                         <placeName type="ancient" subtype="region">Egypt</placeName>
                      </p>
                   </provenance>
-                  <provenance type="composed">
+                  <provenance n="2" type="composed">
                      <p>
                         <placeName type="ancient" subtype="region">Egypt</placeName>
                      </p>
@@ -57,17 +61,17 @@
       </fileDesc>
       <encodingDesc>
          <p>
-                This file encoded to comply with EpiDoc Guidelines and Schema version 8
-                <ref>http://www.stoa.org/epidoc/gl/5/</ref>
+        This file encoded to comply with EpiDoc Guidelines and Schema version 8
+        <ref>http://www.stoa.org/epidoc/gl/5/</ref>
          </p>
       </encodingDesc>
       <profileDesc>
          <textClass>
             <keywords>
-               <term>magic</term>
-               <term type="culture">religion</term>
-               <term type="religion">Egyptian</term>
-               <term type="overview">love spell</term>
+               <term n="1" type="religion">Egyptian</term>
+               <term n="2" type="culture">religion</term>
+               <term n="3">magic</term>
+               <term n="4" type="overview">love spell</term>
             </keywords>
          </textClass>
          <langUsage>
@@ -112,39 +116,36 @@
 </ab></div></div>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
-               <bibl type="publication" subtype="principal">
-                  <ptr target="http://papyri.info/biblio/12729"/>
-                  <biblScope unit="number">73</biblScope>
-                  <!--ignore - start, i.e. SoSOL users may not edit this-->
+               <bibl n="1" type="publication" subtype="principal">
                   <title level="s" type="abbreviated">Suppl.Mag.</title>
-                  <biblScope unit="volume">2</biblScope>
-                  <!--ignore - stop-->
-               </bibl>
-               <bibl type="reference" subtype="translation">
                   <!-- ignore - start, i.e. SoSOL users may not edit this -->
+                  <!-- ignore - stop -->
+                  <ptr target="http://papyri.info/biblio/12729"/>
+                  <biblScope n="1" unit="number">73</biblScope>
+                  <biblScope n="2" unit="volume">2</biblScope>
+                  <biblScope n="3" unit="book"/>
+               </bibl>
+               <bibl n="2" type="reference" subtype="translation">
                   <title level="m" type="main">The Greek Magical Papyri in Translation, Including the Demotic Spells. Second Edition.</title>
-                  <author n="1">
-                     <forename>Hans Dieter</forename>
-                     <surname>Betz</surname>
-                  </author>
+                  <!-- ignore - start, i.e. SoSOL users may not edit this -->
                   <!-- ignore - stop -->
                   <ptr target="http://papyri.info/biblio/12669"/>
-                  <biblScope unit="page" from="308">308</biblScope>
+                  <biblScope n="1" unit="page" from="308">308</biblScope>
+                  <biblScope n="2" unit="number">CIII</biblScope>
+                  <biblScope n="3" unit="book"/>
                </bibl>
-               <bibl type="reference" subtype="principal">
-                  <!-- ignore - start, i.e. SoSOL users may not edit this -->
+               <bibl n="3" type="reference" subtype="principal">
                   <title level="m" type="main">Supplementum Magicum. Vol. II.</title>
-                  <editor n="1">
-                     <forename>Robert W.</forename>
-                     <surname>Daniel</surname>
-                  </editor>
+                  <!-- ignore - start, i.e. SoSOL users may not edit this -->
                   <!-- ignore - stop -->
                   <ptr target="http://papyri.info/biblio/12729"/>
-                  <biblScope unit="number">73</biblScope>
+                  <biblScope n="1" unit="number">73</biblScope>
+                  <biblScope n="2" unit="book"/>
+                  <biblScope n="3" unit="book"/>
                </bibl>
-               <bibl type="reference" subtype="principal">
-                  <!-- ignore - start, i.e. SoSOL users may not edit this -->
-                  <!-- ignore - stop -->
+               <bibl n="4" type="reference" subtype="principal">
+            <!-- ignore - start, i.e. SoSOL users may not edit this -->
+            <!-- ignore - stop -->
                   <ptr target="http://papyri.info/biblio/96044"/>
                   <biblScope n="1" unit="number">7</biblScope>
                   <biblScope n="2" unit="chapter"/>
