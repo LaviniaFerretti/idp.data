@@ -44,7 +44,8 @@
          <head xml:lang="en">
             <date>168 BC</date>
             <placeName>Memphis</placeName>
-            <ref n="upz;1;59" type="reprint-in">UPZ 1,59</ref>
+            <ref n="upz;1;59" type="reprint-in">UPZ 1 59</ref>
+            <ref n="p.lond;1;42" type="reprint-from">P.Lond. 1 42</ref>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab/></div>
       </body>
