@@ -36,8 +36,7 @@
       <body>
          <head xml:lang="en"/>
          <div xml:lang="grc" type="edition" xml:space="preserve">
-<div n="v" type="textpart"><ab>
-</ab></div>
+<div n="v" type="textpart">
 <div n="i" subtype="column" type="textpart"><ab>
 <lb n="1"/><supplied reason="lost"><expan>πι<ex>ττακιάρχης</ex></expan> Ἀλεξ</supplied>ίων Μύ<unclear>σθο</unclear>υ
 
@@ -127,6 +126,7 @@
 
 <lb n="11"/><gap reason="lost" extent="unknown" unit="line"/>
 </ab></div>
+</div>
 <div n="r" type="textpart"><ab>
 <lb n="1"/><expan>πι<ex>ττακιάρχης</ex></expan> Ὡρί<supplied reason="lost">ων</supplied> <expan>Ἡρακλείδ<ex>ου</ex></expan> <app type="alternative"><lem><abbr><unclear>Β</unclear>αραθ</abbr></lem><rdg><abbr><unclear>Κ</unclear>αραθ</abbr></rdg></app>
 
