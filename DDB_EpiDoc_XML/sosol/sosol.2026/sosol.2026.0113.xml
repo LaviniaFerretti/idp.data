@@ -67,9 +67,9 @@
 
     <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Φαῶ</supplied><unclear>φι</unclear> <expan>ὁµ<ex>οίως</ex></expan> δι’ <expan>ἐµ<ex>οῦ</ex></expan> <abbr><gap reason="illegible" quantity="1" unit="character"/>εοχ</abbr> <unclear>παρα</unclear> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>τι <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <unclear>λς</unclear><gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>τι <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="36"><unclear>λς</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/>ηρίᾳ <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβην</ex></expan> α <gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/>ηρίᾳ <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβην</ex></expan> <num value="1">α</num> <gap reason="lost" extent="unknown" unit="character"/>
 
     <lb n="18"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Εὐ</supplied><unclear>ρ</unclear>οσύνῃ <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβης</ex></expan> <num value="1/2">𐅵</num> γ<gap reason="lost" extent="unknown" unit="character"/>
 
