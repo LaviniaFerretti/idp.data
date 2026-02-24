@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Magical handbook with various spells and a prayer to the Sun</title>
+            <title>GEMF 21 (P.Duke inv. 729): Magical handbook with various spells and a prayer to the Sun</title>
          </titleStmt>
          <publicationStmt>
             <authority>Digital Corpus of Literary Papyri</authority>
@@ -14,7 +14,11 @@
             <idno type="filename">64011</idno>
             <idno type="dclp-hybrid">tm;;64011</idno>
             <availability>
-               <p>© Digital Corpus of Literary Papyri. This work is licensed under a <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>.</p>
+               <p>
+            © Digital Corpus of Literary Papyri. This work is licensed under a
+            <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</ref>
+            .
+          </p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -38,15 +42,15 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>Found: Egypt; written: Egypt</origPlace>
+                     <origPlace>Fundort: Egypt; Schreibort: Egypt</origPlace>
                      <origDate notBefore="0100" notAfter="0299">100 - 299</origDate>
                   </origin>
-                  <provenance type="found">
+                  <provenance n="1" type="found">
                      <p>
                         <placeName type="ancient" subtype="region">Egypt</placeName>
                      </p>
                   </provenance>
-                  <provenance type="composed">
+                  <provenance n="2" type="composed">
                      <p>
                         <placeName type="ancient" subtype="region">Egypt</placeName>
                      </p>
@@ -57,17 +61,18 @@
       </fileDesc>
       <encodingDesc>
          <p>
-                This file encoded to comply with EpiDoc Guidelines and Schema version 8
-                <ref>http://www.stoa.org/epidoc/gl/5/</ref>
+        This file encoded to comply with EpiDoc Guidelines and Schema version 8
+        <ref>http://www.stoa.org/epidoc/gl/5/</ref>
          </p>
       </encodingDesc>
       <profileDesc>
          <textClass>
             <keywords>
-               <term>magic</term>
-               <term>prayer</term>
-               <term type="culture">religion</term>
-               <term type="religion">classical</term>
+               <term n="1" type="description">magical formulary</term>
+               <term n="2" type="religion">classical</term>
+               <term n="3" type="culture">religion</term>
+               <term n="4">magic</term>
+               <term n="5">prayer</term>
             </keywords>
          </textClass>
          <langUsage>
@@ -145,8 +150,8 @@
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="reference" subtype="principal">
-                  <!-- ignore - start, i.e. SoSOL users may not edit this -->
-                  <!-- ignore - stop -->
+            <!-- ignore - start, i.e. SoSOL users may not edit this -->
+            <!-- ignore - stop -->
                   <ptr target="http://papyri.info/biblio/96044"/>
                   <biblScope n="1" unit="number">21</biblScope>
                   <biblScope n="2" unit="chapter"/>
