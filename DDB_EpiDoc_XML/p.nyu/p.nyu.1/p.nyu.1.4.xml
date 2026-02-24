@@ -85,7 +85,7 @@
 
     <lb n="15"/>πλ<unclear>ήρ</unclear>ης. <app type="editorial"><lem resp="PN C. Balamoshev (from image)">Πεκῦσις</lem><rdg>Πευκῆις</rdg></app> <expan>βοηθ<ex>ὸς</ex></expan> <expan><ex>τάλαντα</ex></expan> <app type="editorial"><lem resp="BL 6.124">ἑξ<supplied reason="lost">ακόσια <num value="600">χ</num></supplied></lem><rdg>ἑξ<supplied reason="lost">ακισχίλια <expan><ex>γίνεται</ex></expan> <num value="6000">Ϛ</num></supplied></rdg></app> 
 
-    <lb n="16"/><choice><reg>σεσημείωμαι</reg><orig>σεσημίωμαι</orig></choice> </ab></div>
+    <lb n="16" rend="indent"/> <choice><reg>σεσημείωμαι</reg><orig>σεσημίωμαι</orig></choice> </ab></div>
       </body>
    </text>
 </TEI>
