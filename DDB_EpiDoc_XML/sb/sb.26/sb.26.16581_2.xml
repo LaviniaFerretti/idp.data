@@ -31,6 +31,10 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-02-24T11:23:29-05:00"
+                 who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
+         <change when="2026-02-24T11:12:58-05:00"
+                 who="http://papyri.info/editor/users/james.cowey">Vote - Accept-Straight-to-Finalization - lower case tau at the beginning.</change>
          <change when="2026-02-11T11:47:13-05:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
    </teiHeader>
