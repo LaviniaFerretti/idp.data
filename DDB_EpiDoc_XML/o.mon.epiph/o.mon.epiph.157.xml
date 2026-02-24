@@ -40,7 +40,7 @@
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve">
 <ab>
-    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ⲁ</unclear>ⲕⲧⲉ<unclear>ⲣ</unclear>
+    <lb n="1"/><app type="alternative"><lem><gap reason="lost" extent="unknown" unit="character"/><unclear>ⲁ</unclear>ⲕⲧⲉ<unclear>ⲣ</unclear></lem><rdg><gap reason="lost" extent="unknown" unit="character"/><unclear>ⲁ</unclear>ⲕⲧⲉ<unclear>ⲓ</unclear></rdg></app>
 
     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ⲥⲣ</unclear>ⲁⲃⲓⲟ ⲁ<hi rend="diaeresis">ⲓ</hi>
 
