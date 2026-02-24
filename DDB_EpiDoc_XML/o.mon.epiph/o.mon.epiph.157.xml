@@ -46,7 +46,7 @@
 
     <lb n="3" break="no"/>ⲃⲱⲕ ⲉⲡⲧⲟⲟⲩ <hi rend="supraline">ⲛ</hi>ϫⲏⲙⲉ ⲁⲩ
 
-    <lb n="4" break="no"/>ⲥ<hi rend="supraline">ⲙⲛ</hi> ⲟⲩⲕⲟⲗⲩⲙⲃⲏⲑⲣⲁ
+    <lb n="4" break="no"/>ⲥ<hi rend="supraline">ⲙⲛ</hi> ⲟⲩ<choice><reg xml:lang="grc">κολυμβήθρα</reg><orig>ⲕⲟⲗⲩⲙⲃⲏⲑⲣⲁ</orig></choice>
 
     <lb n="5"/><hi rend="supraline">ⲛ</hi>ϩⲟⲩⲛ <hi rend="supraline">ⲛ</hi>ⲧ<choice><reg xml:lang="grc">πόλις</reg><orig>ⲡⲟⲗⲓⲥ</orig></choice> ⲁⲩ<choice><reg xml:lang="grc">βαπτίζειν</reg><orig>ⲃⲁ
 
