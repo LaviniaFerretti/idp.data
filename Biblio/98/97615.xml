@@ -19,7 +19,7 @@
   <pubPlace n="1">Milano</pubPlace>
   <publisher n="1">Largo A. Gemelli</publisher>
   <biblScope type="pp" from="5" to="247">5-247</biblScope>
-  <note n="1" resp="#BP">P. Aegyptus Cent. 1-27. - Pp. 5-6: Premessa (Carla Balconi & Rosario Pintaudi).</note>
+  <note n="1" resp="#BP">P. Aegyptus Cent. 1-27. - Pp. 5-6: Premessa (Carla Balconi &amp; Rosario Pintaudi).</note>
   <relatedItem type="appearsIn" n="1">
     <bibl>
       <ptr target="https://papyri.info/biblio/912"/>
