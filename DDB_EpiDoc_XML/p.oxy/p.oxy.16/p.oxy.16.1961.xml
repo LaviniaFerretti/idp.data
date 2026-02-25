@@ -96,19 +96,19 @@
 
     <lb n="21" break="no"/>τὸν <choice><reg>τόπον</reg><orig>τόκον</orig></choice> ἐπὶ νομῇ. κυρία ἡ μίσθωσις
 
-    <lb n="22"/><app type="editorial"><lem resp="PN N. Gonis (from image)">ἁπλῆ γραφεῖσ<unclear>α</unclear> καὶ ἐπερωτηθεὶς ὡμολόγησα.
+    <lb n="22"/>ἁπλῆ γραφεῖσ<unclear>α</unclear> καὶ ἐπερωτηθεὶς ὡμολόγησα.
 
     <lb n="23"/>Αὐρηλία Μαρτυρί<supplied reason="lost">α θ</supplied><unclear>υ</unclear>γάτηρ Σαρμάτου ἡ προκειμένη
 
     <lb n="24"/>πεποίη<unclear>μα</unclear>ι <supplied reason="lost">τὴ</supplied><unclear>ν</unclear> μίσθωσιν καὶ ἀποδώσω
 
     <lb n="25"/><unclear>τὸ</unclear> <choice><reg>ἐνοί<supplied reason="lost">κ</supplied>ιον</reg><orig>ἐν<unclear>οί</unclear><supplied reason="lost">κ</supplied><unclear>ε</unclear>ιον</orig></choice> καὶ <choice><reg>συμφωνῖ</reg><orig>συμφωνεῖ</orig></choice> μοι πάντα τὰ
-
+<milestone rend="paragraphos" unit="undefined"/>
     <lb n="26"/>ἐγ<g type="apostrophe"/>γεγρ<unclear>α</unclear><supplied reason="lost">μμ</supplied>ένα ὡς πρόκειται. Αὐρήλιος Σερῆνος 
 
     <lb n="27"/>Φιλοξένου γενομένου διακόνου ἀξιωθεὶς ἔγραψ
 
-    <lb n="28" break="no"/>α <hi rend="diaeresis">ὑ</hi>πὲρ αυτῆς παρούσης γράμματα μὴ <choice><reg>εἰδυίης</reg><orig>εἰδυείης</orig></choice>.</lem><rdg><gap reason="ellipsis" quantity="4" unit="line"><desc>non transcribed</desc></gap> <lb n="26"/>Αὐρήλιος Σερῆνος <lb n="27"/>Φιλοξένου γενομένου διακόνου <lb n="28"/><gap reason="ellipsis" quantity="1" unit="line"><desc>non transcribed</desc></gap></rdg></app>
+    <lb n="28" break="no"/>α <hi rend="diaeresis">ὑ</hi>πὲρ αυτῆς παρούσης γράμματα μὴ <choice><reg>εἰδυίης</reg><orig>εἰδυείης</orig></choice>.
 
     <lb n="29"/><g type="chirho"/> <foreign xml:lang="la">di emu Serenu</foreign><gap reason="illegible" quantity="3" unit="character"/> <foreign xml:lang="la">etelesthe</foreign> <expan><unclear>Φ</unclear><ex>αρμοῦθι</ex></expan> <foreign xml:lang="la">xviiii</foreign>  <expan><ex>ἰνδι</ex><unclear>κ</unclear><ex>τίονος</ex></expan> <foreign xml:lang="la">x. </foreign>
 </ab></div><div n="v" type="textpart"><ab>
