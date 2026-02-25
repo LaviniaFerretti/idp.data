@@ -39,13 +39,12 @@
          <head xml:lang="en"/>
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <ab>
-    <lb n="1"/>L Ψενθώτης
+    <lb n="1"/><g type="unintelligible"/> Ψενθώτης
 
     <lb n="2"/><unclear>α</unclear>νδουρου<unclear>π</unclear>ου
 
     <lb n="3"/>αν<gap reason="illegible" quantity="1" unit="character"/>α<gap reason="illegible" quantity="1" unit="character"/>ος
-</ab>
-      </div>
+</ab></div>
       </body>
    </text>
 </TEI>
