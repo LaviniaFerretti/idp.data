@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.23/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="m63836" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -70,13 +70,62 @@
                <term type="religion">Egyptian</term>
             </keywords>
          </textClass>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="grc">Greek</language>
+         </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change when="2014-12-10" who="DCLP">Crosswalked to EpiDoc XML</change>
+          <change when="2014-12-10" who="DCLP">Crosswalked to EpiDoc XML</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
+         <div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="r" type="textpart">
+<div n="i" subtype="column" type="textpart"><ab>
+<lb n="1"/>τ<unclear>ο</unclear>ῦτο <app type="editorial"><lem>γράψεις</lem><rdg resp="Preisendanz">γράφεις</rdg></app> <choice><reg>εἰς</reg><orig>ἰς</orig></choice> <hi rend="diaeresis">ἰ</hi>ερατικὸν <choice><reg>βιβλίον</reg><orig>βειβλίον</orig></choice> ϗ<expan><ex>αὶ</ex></expan> θε<supplied reason="lost">ς</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><choice><reg>ἐξορκίζω</reg><orig>ἐξορκείζω</orig></choice> σε τὸν <hi rend="diaeresis">ἰ</hi>αβω θεόν·
+<lb n="3"/>στέψον τὴν καρδίαν τῆς <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan>
+<lb n="4"/><unclear>ἧ</unclear>ς ἔτεκεν ἡ <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan> πρὸς τὸν <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan> ὅν
+<lb n="5"/>ἔτεκεν ἡ <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan> <app type="editorial"><lem>κατὰ πιτάγην</lem><rdg resp="Preisendanz">κατ' ἀπιτάγην</rdg></app> τοῦ
+<lb n="6"/>Iαβω μασκελλει μασκελλω
+<lb n="7"/><app type="editorial"><lem>φ<unclear>αιν</unclear>ουκ</lem><rdg resp="Preisendanz">Φνουκ-</rdg></app>ενταβαω ποίησον ἐπει
+<lb n="8" break="no"/>τυχεῖν τῆς <unclear>συ</unclear>νουσίας <choice><reg>τον</reg><orig>τοῦ</orig></choice> <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan>
+<lb n="9"/>ἐ<unclear>μ</unclear>έ, αβλαναθαναλβα
+<lb n="10"/>βλανθαναβα<gap reason="lost" quantity="2" unit="character"/>
+<lb n="11"/>ναθανδα
+<lb n="12"/>αναθανα
+<lb n="13"/>ναβαναει
+<lb n="14"/>αβθωωθ
+<lb n="15"/>βαρβαχα
+<lb n="16"/>αβρασαξ
+<lb n="17"/><app type="editorial"><lem><unclear>αωαι</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>ρ</unclear><gap reason="illegible" quantity="1" unit="character"/></lem><rdg resp="Preisendanz"><unclear>αω</unclear><supplied reason="lost">ιαμα</supplied>ρ<supplied reason="lost">ι</supplied></rdg></app>
+<lb n="18"/>σεργουθει
+<lb n="19"/><milestone rend="paragraphos" unit="undefined"/><hi rend="supraline">ει</hi> <hi rend="supraline">ει</hi> <hi rend="supraline">ει</hi> <hi rend="supraline">η</hi> <hi rend="supraline">ι</hi> <hi rend="supraline">η</hi> <hi rend="supraline">ι</hi> αααααααιιιιιιιι
+</ab></div>
+<div n="ii" subtype="column" type="textpart"><ab>
+<lb n="20"/><unclear>εε</unclear>ε ο<gap reason="lost" extent="unknown" unit="character"/> <app type="editorial"><lem><supplied reason="lost" cert="low">βαρ</supplied>
+<lb n="21" break="no"/>βαρα<unclear>η</unclear> <gap reason="lost" extent="unknown" unit="character"/></lem><rdg resp="Preisendanz"><supplied reason="lost">βαρ</supplied><lb n="21" break="no"/>βαραι <supplied reason="lost">ὑπ' ἐμὸν</supplied></rdg></app>
+<lb n="22"/><app type="editorial"><lem>ορο<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem><rdg resp="Preisendanz">ὄρο<unclear>φ</unclear><supplied reason="lost">ον ἐλθετω ἡ</supplied></rdg></app>
+<lb n="23"/><expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan> <app type="editorial"><lem>ἥ<unclear>ν</unclear> <supplied reason="lost">ἔτεκεν ἡ <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan> καὶ</supplied></lem><rdg resp="Preisendanz">ἣν <supplied reason="lost">ἔτεκεν ἡ <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan>, καὶ</supplied></rdg></app>
+<lb n="24"/><app type="editorial"><lem>φε<unclear>λε</unclear><supplied reason="lost">ίτω ἐμε τὸν <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan>, ὃν</supplied></lem><rdg resp="Preisendanz">φιλ<supplied reason="lost">είτω φιλείτω ἐμὲ τὸν <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan>, ὃν</supplied></rdg></app>
+<lb n="25"/>ἔτε<supplied reason="lost">κεν ἡ <expan>δ<ex>ε</ex>ῖ<ex>να</ex></expan> εἰς</supplied>
+<lb n="26"/>τὸν<supplied reason="lost"> ἅπαντα</supplied>
+<lb n="27"/><app type="editorial"><lem>χρο<supplied reason="lost">νόν τῆς</supplied></lem><rdg resp="Preisendanz">χρό<supplied reason="lost">νον τῆς</supplied></rdg></app>
+<lb n="28"/><app type="editorial"><lem>ζοῆ<unclear>ς</unclear><supplied reason="lost"> μου ἵνα μου</supplied></lem><rdg resp="Preisendanz">ζωῆ<supplied reason="lost">ς αὐτῆς</supplied></rdg></app>
+<lb n="29"/><app type="editorial"><lem>ἐρᾷ <unclear>π</unclear><supplied reason="lost">άντως</supplied></lem><rdg resp="Preisendanz">ἐραμ<supplied reason="lost">ένη μου</supplied></rdg></app>
+<lb n="30"/><app type="editorial"><lem>ἐρῶ<supplied reason="lost">σαν μου</supplied></lem><rdg resp="Preisendanz">ἔρω<supplied reason="lost">τι αἰωνίῳ</supplied></rdg></app>
+<lb n="31"/><choice><reg>ἤδη</reg><orig>ἴ<unclear>δη</unclear></orig></choice><supplied reason="lost"> ἴδη ταχὺ ταχὺ</supplied>
+
+</ab></div>
+</div></div>
+         <div type="commentary" subtype="linebyline">
+            <list>
+               <item corresp="#div1-lb10" xml:space="preserve"><ref>10</ref> <p>Perhaps vacat</p></item>
+               <item corresp="#div2-lb4" xml:space="preserve"><ref>23</ref> <p>Perhaps Preisendanz saw καὶ in ϗ of line 1.</p></item>
+            </list>
+         </div>
          <div type="bibliography" subtype="principalEdition">
             <listBibl>
                <bibl type="publication" subtype="principal">
@@ -124,14 +173,10 @@
                </bibl>
             </listBibl>
          </div>
-         <div type="edition" xml:space="preserve"/>
          <div type="bibliography" subtype="illustrations">
             <listBibl>
                <bibl type="online">
                   <ptr target="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Papyrus_148"/>
-               </bibl>
-               <bibl type="online">
-                  <ptr target="https://access.bl.uk/item/viewer/ark:/81055/vdc_100143122881.0x000001"/>
                </bibl>
             </listBibl>
          </div>
