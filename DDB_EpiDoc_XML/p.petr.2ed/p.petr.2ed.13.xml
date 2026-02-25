@@ -48,7 +48,9 @@
          <head n="47308" xml:lang="en">
             <date>238/237 BC</date>
             <placeName>Arsinoite</placeName>
-            <ref n="p.petr;1;12" type="reprint-from">PPetr1,12;cf2,pg22‡7`3,9</ref>
+            <ref n="p.petr;1;12" type="reprint-from">P.Petr. 1 12</ref>
+            <ref n="p.petr;2;intro_pg22" type="reprint-from">P.Petr. 2 intro_pg22</ref>
+            <ref n="p.petr;3;9" type="reprint-from">P.Petr. 3 9</ref>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><div n="1" type="textpart"><ab>
 
