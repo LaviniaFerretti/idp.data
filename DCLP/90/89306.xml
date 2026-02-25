@@ -81,17 +81,30 @@ Commons Attribution 3.0 License</ref>
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-02-25T17:14:44-05:00"
+                 who="http://papyri.info/editor/users/saverio">Finalized - ok</change>
          <change when="2026-02-25T17:14:43-05:00"
                  who="http://papyri.info/editor/users/saverio">Finalized - ok</change>
          <change when="2026-02-25T14:12:15-05:00"
                  who="http://papyri.info/editor/users/saverio">Vote - Accept-Straight-to-Finalization - Reviewed by Oliver Donath</change>
+         <change when="2026-02-25T14:12:15-05:00"
+                 who="http://papyri.info/editor/users/saverio">Vote - Accept-Straight-to-Finalization - Reviewed by Oliver Donath</change>
          <change when="2026-02-22T14:42:11-05:00"
                  who="http://papyri.info/editor/users/saverio">Submit - Text of GEMF 32 added. NB: url should be http://papyri.info/dclp/89306</change>
+         <change when="2026-02-22T14:42:11-05:00"
+                 who="http://papyri.info/editor/users/saverio">Submit - Text of GEMF 32 added. NB: url should be http://papyri.info/dclp/89306</change>
+         <change when="2026-02-19T00:23:34-05:00"
+                 who="http://papyri.info/editor/users/saverio">Vote - Return-Straight-to-Sender - back to sender to add text</change>
          <change when="2026-02-19T00:23:34-05:00"
                  who="http://papyri.info/editor/users/saverio">Vote - Return-Straight-to-Sender - back to sender to add text</change>
          <change when="2026-02-16T20:23:23-05:00"
                  who="http://papyri.info/editor/users/saverio">Submit - http://papyri.info/dclp/89306&#xD;
 GEMF 32</change>
+         <change when="2026-02-16T20:23:23-05:00"
+                 who="http://papyri.info/editor/users/saverio">Submit - http://papyri.info/dclp/89306&#xD;
+GEMF 32</change>
+         <change when="2026-02-16T19:46:24-05:00"
+                 who="http://papyri.info/editor/users/saverio">Commit - Create</change>
          <change when="2026-02-16T19:46:24-05:00"
                  who="http://papyri.info/editor/users/saverio">Commit - Create</change>
          <change when="2026-02-16T19:24:28-05:00" who="http://papyri.info/editor">Automated creation from template</change>
