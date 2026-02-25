@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>GEMF 32. Two recipes: one fragmentary for a flax-leaf amulet and an attraction procedure</title>
+            <title>Two recipes: one fragmentary for a flax-leaf amulet and an attraction procedure</title>
          </titleStmt>
          <publicationStmt>
             <authority>Digital Corpus of Literary Papyri</authority>
@@ -74,7 +74,9 @@ Commons Attribution 3.0 License</ref>
          </langUsage>
          <textClass>
             <keywords>
-               <term type="description">magic</term>
+               <term n="1" type="description">magic</term>
+               <term n="2">magical recipe</term>
+               <term n="3">amulet</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -133,7 +135,7 @@ Commons Attribution 3.0 License</ref>
                   <biblScope n="2" unit="number">32</biblScope>
                   <biblScope n="3" unit="book"/>
                </bibl>
-               <bibl n="2" type="reference" subtype="principal">
+               <bibl n="2" type="edition" subtype="principal">
             <!-- ignore - start, i.e. SoSOL users may not edit this -->
             <!-- ignore - stop -->
                   <ptr target="http://papyri.info/biblio/8361"/>
