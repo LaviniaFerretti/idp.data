@@ -48,7 +48,8 @@
          <head n="47305" xml:lang="en">
             <date>238/237 BC</date>
             <placeName>Arsinoite</placeName>
-            <ref n="p.petr;2;intro,pg23" type="reprint-from">PPetr2,pg23;3,7</ref>
+            <ref n="p.petr;2;intro_pg23" type="reprint-from">P.Petr. 2 intro_pg23</ref>
+            <ref n="p.petr;3;7" type="reprint-from">P.Petr. 3 7</ref>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
     <lb n="1"/><supplied reason="lost">βασιλεύοντος Πτολεμαί</supplied>ου τοῦ Πτολεμαίου καὶ Ἀρσινόη<supplied reason="lost">ς θε</supplied>
